@@ -1,7 +1,7 @@
 # Hello there, I'm Khris 👋
 I'm a Frontend Web Developer 💻 and Designer 🎨!
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nextjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nextjs,vite,vscode)](https://skills.thijs.gg)
 
 ## 👩‍💻 I'm currently working on
 
