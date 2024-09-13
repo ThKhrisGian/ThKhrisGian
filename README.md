@@ -1,5 +1,6 @@
-![](https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg)
 # Hello there, I'm Khris 👋
+[Imgur](https://imgur.com/GjA38MI)
+
 I'm a Frontend Web Developer 💻 and Designer 🎨!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,nodejs,express)](https://skillicons.dev)
