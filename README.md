@@ -1,5 +1,5 @@
-# Hello there, I'm Khris 👋
 ![Imgur](https://i.imgur.com/GjA38MI.png)
+# Hello there, I'm Khris 👋
 
 I'm a Frontend Web Developer 💻 and Designer 🎨!
 
