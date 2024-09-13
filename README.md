@@ -1,4 +1,4 @@
-![Imgur]([https://i.imgur.com/GjA38MI.png](https://i.imgur.com/oQ5Z1ls.png)
+![Imgur](https://i.imgur.com/GjA38MI.png](https://i.imgur.com/oQ5Z1ls.png)
 
 # Hello there, I'm Khris 👋
 
