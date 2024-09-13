@@ -1,4 +1,5 @@
-![Imgur](https://i.imgur.com/GjA38MI.png)
+![Imgur]([https://i.imgur.com/GjA38MI.png](https://i.imgur.com/oQ5Z1ls.png))
+
 # Hello there, I'm Khris 👋
 
 I'm a Frontend Web Developer 💻 and Designer 🎨!
