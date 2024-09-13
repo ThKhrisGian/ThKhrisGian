@@ -1,5 +1,5 @@
 # Hello there, I'm Khris 👋
-![Imgur](https://imgur.com/GjA38MI)
+![Imgur](https://i.imgur.com/GjA38MI.png)
 
 I'm a Frontend Web Developer 💻 and Designer 🎨!
 
