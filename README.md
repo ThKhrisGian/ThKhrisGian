@@ -16,6 +16,6 @@ I'm a Frontend Web Developer 💻 and Designer 🎨!
 - Next.js
 - CSS animations
 
-| Nombre proyecto |
+| ### Nombre proyecto |
 | --------------- |
 | imagen          |
