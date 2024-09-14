@@ -15,3 +15,7 @@ I'm a Frontend Web Developer 💻 and Designer 🎨!
 - React Router
 - Next.js
 - CSS animations
+
+| Nombre proyecto |
+| --------------- |
+| imagen          |
