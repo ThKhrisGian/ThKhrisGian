@@ -2,7 +2,7 @@
 
 # Hello there, I'm Khris 👋
 
-I'm a Frontend Web Developer 💻 and Designer 🎨!
+Frontend developer proficient in HTML, CSS, and JavaScript. Specializes in responsive design and performance optimization, passionate about keeping up with the latest frontend technologies and trends.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,nodejs,express)](https://skillicons.dev)
 
