@@ -1,6 +1,6 @@
 ![Imgur](https://imgur.com/LIHPwK7.png)
 
-# Hello there, I'm Khris 👋
+# Hello there, I'm Christian 👋
 
 Frontend developer proficient in HTML, CSS, and JavaScript. Specializes in responsive design and performance optimization, passionate about keeping up with the latest frontend technologies and trends.
 
