@@ -6,16 +6,12 @@ Frontend developer proficient in HTML, CSS, and JavaScript. Specializes in res
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,tailwind,git,figma)](https://skillicons.dev)
 
-## 👩‍💻 I'm currently working on
+**👩‍💻 I'm currently working on**
 - Developing my Web Portfolio
 - Preparing for my next YouTube channel
 - Enhancing my CSS skills
 
-## 🧠 I'm currently learning
+**🧠 I'm currently learning**
 - React Router
 - Next.js
 - CSS animations
-
-| ### Nombre proyecto |
-| --------------- |
-| imagen          |
